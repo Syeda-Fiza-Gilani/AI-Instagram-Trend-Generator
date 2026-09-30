@@ -7,6 +7,8 @@ This is a fully autonomous n8n workflow that discovers trending Instagram conten
 Built for agencies, AI content creators, and freelancers who need to run multiple content pipelines without multiplying their workload.
 
 ---
+<img width="973" height="721" alt="content" src="https://github.com/user-attachments/assets/f982a532-b391-4a22-8f49-abdb6793a57a" />
+
 
 ## 🧠 How It Works
 
